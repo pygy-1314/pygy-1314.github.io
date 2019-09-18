@@ -278,7 +278,11 @@ label.on{
 }
 /*--banner--*/
 .banner{
+<<<<<<< HEAD
 background: url(../images/banner-2.jpg) no-repeat 0px 0px;
+=======
+background: url(../images/banner-1.jpg) no-repeat 0px 0px;
+>>>>>>> b4e88f33f03cd609db81e0f76115e6cbcc1995f2
 background-size:cover;
 -webkit-background-size: cover;
 -o-background-size: cover;
